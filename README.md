@@ -11,7 +11,7 @@ Contato
 - 📧 Email: niuanlucasnicolau@gmail.com
 
 Cursos complementares:
-- 🚀 Curso de Desenvolvimento Android
+- 🚀 Curso de Desenvolvimento Android e IOS
 - 🌐 Curso de Desenvolvimento Web
 - 🎨 Curso de Desing Gráfico
 - 📃 Curso de Inglês Intermediário 
