@@ -1,7 +1,7 @@
 ### Olá, sou Niuan Lucas ! 👋
 ✨ FullStack Developer ✨  
 
-<img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+<img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/ width="50%" >
 
 Técnico CEFET em Telecomunicações com enfase em Computação e Desenvolvimento de Projetos de uso de Hardware com Microcomputadores e Microcontroladores. Sou Apaixonado por Programação e Tecnologia, e adoro trabalhar nas linhas de Pesquisa de Smart Cities e IoT.
 
