@@ -12,6 +12,6 @@ Contato
 
 Cursos complementares:
 - 🚀 Curso de Desenvolvimento Android e IOS
-- 🌐 Curso de Desenvolvimento Web
+- 🌐 Curso de Desenvolvimento Web FullStack
 - 🎨 Curso de Desing Gráfico
 - 📃 Curso de Inglês Intermediário 
