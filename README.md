@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, sou Niuan Lucas ! 👋
+✨ FullStack Developer ✨  
 
-<!--
-**NiuanLucas/NiuanLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
-Here are some ideas to get you started:
+Técnico CEFET em Telecomunicações com enfase em Computação e Desenvolvimento de Projetos de uso de Hardware com Microcomputadores e Microcontroladores. Sou Apaixonado por Programação e Tecnologia, e adoro trabalhar nas linhas de Pesquisa de Smart Cities e IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contato
+- 📞 Whatsapp: 21 96619-5175 (Forma mais rápida de contato)
+- ☎️ Telefone Residencial: 21 3989-6949
+- 📧 Email: niuanlucasnicolau@gmail.com
+
+Cursos complementares:
+- 🚀 Curso de Desenvolvimento Android
+- 🌐 Curso de Desenvolvimento Web
+- 🎨 Curso de Desing Gráfico
+- 📃 Curso de Inglês Intermediário 
