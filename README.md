@@ -5,7 +5,7 @@
 
 1. Descrição <br/>
 
-Técnico CEFET em Telecomunicações com enfase em Computação e Desenvolvimento de Projetos de uso de Hardware com Microcomputadores e Microcontroladores. Sou Apaixonado por Programação e Tecnologia, e adoro trabalhar nas linhas de Pesquisa de Smart Cities e IoT.
+Formado pelo CEFET como Técnico em Telecomunicações. Graduando em Ciência da Computação pela UFRRJ. Apaixonado por programação e tecnologia, ênfase em microcontroladores e desenvolvimento web, adoro trabalhar nas linhas de pesquisa de Smart Cities e IOT.
 
 2. Contato <br/>
 
