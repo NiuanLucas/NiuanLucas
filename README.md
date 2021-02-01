@@ -9,8 +9,7 @@ Formado pelo CEFET como Técnico em Telecomunicações. Graduando em Ciência da
 
 2. Contato <br/>
 
-- 📞 Whatsapp: 21 96619-5175 (Forma mais rápida de contato)
-- ☎️ Telefone Residencial: 21 3989-6949
+- 📞 Celular/Whatsapp: 21 96619-5175 (Forma mais rápida de contato)
 - 📧 Email: niuanlucasnicolau@gmail.com
 
 3. Cursos complementares <br/>
