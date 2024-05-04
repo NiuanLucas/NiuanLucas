@@ -18,5 +18,4 @@
 - Android and IOS Development
 - FullStack Web Development
 - Graphic Design
-- Intermediate English
-- Advanced courses in Machine Learning and Computer Vision
+- Machine Learning and Computer Vision
