@@ -1,20 +1,22 @@
-### Olá, sou Niuan Lucas ! 👋
-✨ FullStack Developer ✨  
+### Niuan Lucas - FullStack Developer & Machine Learning Enthusiast
 
-<img align="right" width="50%" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+#### Professional Summary
+- **Education:** Telecommunications Technician from CEFET and Bachelor’s degree in Computer Science from UFRRJ.
+- **Experience:** Extensive experience with distributed systems, real-time systems, and simulation using Unity 3D. Currently focused on Machine Learning and Computer Vision applications.
+- **Interests:** Developing solutions for Smart Cities and the Internet of Things (IoT), along with a continuous deep dive into web development and emerging technologies.
 
-1. Descrição <br/>
+#### Awards and Recognitions
+- **1st Place at FECTI 2018:** Science, Technology, and Innovation Fair of the State of Rio de Janeiro.
+- **Participant at FEBRACE 2019:** Brazilian Fair of Science and Engineering.
+- **Winner of the Juventude Empreendedora - CIEDS 2020.**
 
-Formado pelo CEFET como Técnico em Telecomunicações. Graduando em Ciência da Computação pela UFRRJ. Apaixonado por programação e tecnologia, ênfase em microcontroladores e desenvolvimento web, adoro trabalhar nas linhas de pesquisa de Smart Cities e IOT.
+#### Contact
+- Phone/WhatsApp: +55 21 96619-5175
+- Email: niuanlucasnicolau@gmail.com
 
-2. Contato <br/>
-
-- 📞 Celular/Whatsapp: 21 96619-5175 (Forma mais rápida de contato)
-- 📧 Email: niuanlucasnicolau@gmail.com
-
-3. Cursos complementares <br/>
-
-- 🚀 Curso de Desenvolvimento Android e IOS
-- 🌐 Curso de Desenvolvimento Web FullStack
-- 🎨 Curso de Desing Gráfico
-- 📃 Curso de Inglês Intermediário 
+#### Continuing Education
+- Android and IOS Development
+- FullStack Web Development
+- Graphic Design
+- Intermediate English
+- Advanced courses in Machine Learning and Computer Vision
